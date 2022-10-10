@@ -1,5 +1,5 @@
 # ohmswich-logo
 
-## This is a test project of Ohmsiwch logo.
+## This is a representional project of Ohmsiwch logo.
 
 
